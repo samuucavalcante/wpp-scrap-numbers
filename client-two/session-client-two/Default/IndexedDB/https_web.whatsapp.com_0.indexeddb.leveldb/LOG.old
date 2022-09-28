@@ -1,0 +1,24 @@
+2022/09/26-13:46:32.008 af8 Reusing MANIFEST C:\Users\samue\wpp-scrap-numbers\client-two\session-client-two\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/26-13:46:32.009 af8 Recovering log #366
+2022/09/26-13:46:32.261 af8 Reusing old log C:\Users\samue\wpp-scrap-numbers\client-two\session-client-two\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000366.log 
+2022/09/26-13:46:44.170 c30 Level-0 table #378: started
+2022/09/26-13:46:44.261 c30 Level-0 table #378: 1146700 bytes OK
+2022/09/26-13:46:44.261 c30 Delete type=0 #366
+2022/09/26-13:46:44.870 1204 Compacting 1@1 + 7@2 files
+2022/09/26-13:46:45.112 1204 Generated table #379@1: 30616 keys, 2273965 bytes
+2022/09/26-13:46:45.315 1204 Generated table #380@1: 27586 keys, 2268650 bytes
+2022/09/26-13:46:45.576 1204 Generated table #381@1: 56367 keys, 2224960 bytes
+2022/09/26-13:46:45.745 1204 Generated table #382@1: 3225 keys, 2156425 bytes
+2022/09/26-13:46:45.885 1204 Generated table #383@1: 20340 keys, 2197237 bytes
+2022/09/26-13:46:46.161 1204 Generated table #384@1: 35671 keys, 2186270 bytes
+2022/09/26-13:46:46.456 1204 Generated table #385@1: 101333 keys, 2150364 bytes
+2022/09/26-13:46:46.456 1204 Compacted 1@1 + 7@2 files => 15457871 bytes
+2022/09/26-13:46:46.456 1204 compacted to: files[ 0 0 7 0 0 0 0 ]
+2022/09/26-13:46:46.457 1204 Delete type=2 #369
+2022/09/26-13:46:46.457 1204 Delete type=2 #370
+2022/09/26-13:46:46.457 1204 Delete type=2 #371
+2022/09/26-13:46:46.457 1204 Delete type=2 #372
+2022/09/26-13:46:46.457 1204 Delete type=2 #373
+2022/09/26-13:46:46.457 1204 Delete type=2 #374
+2022/09/26-13:46:46.458 1204 Delete type=2 #375
+2022/09/26-13:46:46.458 1204 Delete type=2 #378

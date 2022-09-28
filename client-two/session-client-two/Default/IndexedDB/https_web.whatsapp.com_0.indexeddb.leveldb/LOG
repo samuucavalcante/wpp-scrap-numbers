@@ -1,0 +1,48 @@
+2022/09/26-13:54:04.025 3cc4 Reusing MANIFEST C:\Users\samue\wpp-scrap-numbers\client-two\session-client-two\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/26-13:54:04.025 3cc4 Recovering log #377
+2022/09/26-13:54:04.144 3cc4 Reusing old log C:\Users\samue\wpp-scrap-numbers\client-two\session-client-two\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000377.log 
+2022/09/26-13:54:15.461 2174 Level-0 table #388: started
+2022/09/26-13:54:15.482 2174 Level-0 table #388: 1124039 bytes OK
+2022/09/26-13:54:15.483 2174 Delete type=0 #377
+2022/09/26-13:54:15.682 2174 Compacting 1@1 + 7@2 files
+2022/09/26-13:54:15.758 2174 Generated table #389@1: 30854 keys, 2271298 bytes
+2022/09/26-13:54:15.823 2174 Generated table #390@1: 24159 keys, 2268741 bytes
+2022/09/26-13:54:15.900 2174 Generated table #391@1: 61978 keys, 2231633 bytes
+2022/09/26-13:54:15.937 2174 Generated table #392@1: 3231 keys, 2155853 bytes
+2022/09/26-13:54:15.997 2174 Generated table #393@1: 18485 keys, 2189181 bytes
+2022/09/26-13:54:16.059 2174 Generated table #394@1: 30147 keys, 2187303 bytes
+2022/09/26-13:54:16.158 2174 Generated table #395@1: 107160 keys, 2259917 bytes
+2022/09/26-13:54:16.162 2174 Generated table #396@1: 1795 keys, 43359 bytes
+2022/09/26-13:54:16.162 2174 Compacted 1@1 + 7@2 files => 15607285 bytes
+2022/09/26-13:54:16.163 2174 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/09/26-13:54:16.163 2174 Delete type=2 #379
+2022/09/26-13:54:16.163 2174 Delete type=2 #380
+2022/09/26-13:54:16.163 2174 Delete type=2 #381
+2022/09/26-13:54:16.164 2174 Delete type=2 #382
+2022/09/26-13:54:16.164 2174 Delete type=2 #383
+2022/09/26-13:54:16.164 2174 Delete type=2 #384
+2022/09/26-13:54:16.164 2174 Delete type=2 #385
+2022/09/26-13:54:16.164 2174 Delete type=2 #388
+2022/09/26-13:57:29.736 3cc4 Level-0 table #398: started
+2022/09/26-13:57:29.774 3cc4 Level-0 table #398: 1092404 bytes OK
+2022/09/26-13:57:29.778 3cc4 Delete type=0 #387
+2022/09/26-13:57:42.420 26f4 Compacting 1@1 + 8@2 files
+2022/09/26-13:57:42.483 26f4 Generated table #399@1: 30536 keys, 2271721 bytes
+2022/09/26-13:57:42.534 26f4 Generated table #400@1: 24128 keys, 2270711 bytes
+2022/09/26-13:57:42.596 26f4 Generated table #401@1: 63274 keys, 2236434 bytes
+2022/09/26-13:57:42.624 26f4 Generated table #402@1: 3243 keys, 2156458 bytes
+2022/09/26-13:57:42.664 26f4 Generated table #403@1: 17488 keys, 2186084 bytes
+2022/09/26-13:57:42.712 26f4 Generated table #404@1: 26012 keys, 2183679 bytes
+2022/09/26-13:57:42.814 26f4 Generated table #405@1: 108511 keys, 2260303 bytes
+2022/09/26-13:57:42.821 26f4 Generated table #406@1: 5741 keys, 128381 bytes
+2022/09/26-13:57:42.821 26f4 Compacted 1@1 + 8@2 files => 15693771 bytes
+2022/09/26-13:57:42.821 26f4 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/09/26-13:57:42.822 26f4 Delete type=2 #389
+2022/09/26-13:57:42.822 26f4 Delete type=2 #390
+2022/09/26-13:57:42.822 26f4 Delete type=2 #391
+2022/09/26-13:57:42.822 26f4 Delete type=2 #392
+2022/09/26-13:57:42.822 26f4 Delete type=2 #393
+2022/09/26-13:57:42.822 26f4 Delete type=2 #394
+2022/09/26-13:57:42.822 26f4 Delete type=2 #395
+2022/09/26-13:57:42.822 26f4 Delete type=2 #396
+2022/09/26-13:57:42.822 26f4 Delete type=2 #398
